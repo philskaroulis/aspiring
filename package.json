@@ -1,0 +1,24 @@
+{
+  "name": "aspiring",
+  "version": "0.0.1",
+  "description": "Future-proofed AngularJS seed for large projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philskaroulis/aspiring.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "ES6",
+    "ECMAScript6"
+  ],
+  "author": "Phil Skaroulis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philskaroulis/aspiring/issues"
+  },
+  "homepage": "https://github.com/philskaroulis/aspiring"
+}
