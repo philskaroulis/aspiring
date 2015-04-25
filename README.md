@@ -12,20 +12,10 @@ Here's the direction of this repo:
  
 ## Index
 
-* [Overview](#overview)
 * [Set-Up Guide](#setup-guide)
-* [Guiding Principles](#guiding-principles)
 * [Project Structure](#project-structure)
 
-## Overview
-
-...
-
 ## Set-Up Guide
-
-...
-
-## Guiding Principles
 
 ...
 
